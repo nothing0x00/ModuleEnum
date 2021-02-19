@@ -1,0 +1,5 @@
+ModuleEnum/bin/
+ModuleEnum/obj/
+.vs/
+ModuleEnum/.vs/
+ModuleEnum/.gitignore.txt
